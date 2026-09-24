@@ -1,0 +1,4 @@
+window.catalogos={
+  "promociones": [],
+  "nuevos": []
+};
